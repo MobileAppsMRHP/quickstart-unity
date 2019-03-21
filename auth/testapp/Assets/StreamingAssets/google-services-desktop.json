@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "802276543754-ljg7p9hg608n2g3531heusrmontmnl3p.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0Fc5Zt1SpoirjmpFIZgOZZB45CtZFXs"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:802276543754:ios:572137bd9f7437c2", 
+        "android_client_info": {
+          "package_name": "com.google.FirebaseUnityAuthTestApp.dev"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "mobileappsmrhp-spacecolony.appspot.com", 
+    "project_id": "mobileappsmrhp-spacecolony", 
+    "firebase_url": "https://mobileappsmrhp-spacecolony.firebaseio.com", 
+    "project_number": "802276543754"
+  }
+}
