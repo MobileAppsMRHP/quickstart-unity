@@ -17,6 +17,7 @@ namespace Firebase.Sample.Auth {
   using System.Collections.Generic;
   using System.Threading.Tasks;
   using UnityEngine;
+  using Firebase;
 
   // Handler for UI buttons on the scene.  Also performs some
   // necessary setup (initializing the firebase app, etc) on
